@@ -10,7 +10,7 @@ In order to run this program,
 
 Clone This Repo
 
-`` git clone https://github.com/phatlines/simple_shell ``
+`` git clone https://github.com/johnjai99/simple_shell ``
 
 compile it with  
 
